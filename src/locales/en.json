@@ -1,0 +1,238 @@
+{
+  "navbar": {
+    "logo": {
+      "name": "Play"
+    },
+    "menu": {
+      "name": "Open main menu"
+    },
+    "categories-title": {
+      "freegames": "Free Games",
+      "browsergames": "Browser Games"
+    },
+    "links": {
+      "login": "Login",
+      "search": "Search",
+      "search title": "Search Games",
+      "mygames": "My Games",
+      "mygames title": "Games Library",
+      "gift": "My Inventory",
+      "gift title": "Gift Inventory"
+    },
+    "categories": {
+      "anime": "Anime",
+      "shooter": "Shootrer",
+      "fantasy": "Fantasy",
+      "strategy": "Strategy",
+      "racing": "Racing",
+      "moba": "Moba",
+      "mmorpg": "MMORPG",
+      "sci-fi": "Sci-Fi",
+      "social": "Social",
+      "sports": "Sports",
+      "fighting": "Fighting",
+      "cardgames": "Card Games",
+      "battleroyale": "Battle Royale",
+      "browserGames": "Browser Games",
+      "pcGames": "Free-To-Play Games"
+    }
+  },
+  "hero": {
+    "title1": "Discover the best",
+    "title2": "free-to-play games!",
+    "button1": "Get started",
+    "button2": "Learn more",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "collection": {
+    "title": "Games Collection",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque praesentium cumque iure dicta incidunt est ipsam, officia dolor fugit natus?",
+    "library": "ADD TO LIBRARY"
+  },
+  "newsletter": {
+    "title": "Subscribe to our newsletter.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolor officia blanditiis repellat in, vero, aperiam porro ipsum laboriosam consequuntur exercitationem incidunt tempora nisi?",
+    "button": "Sign Up",
+    "label": "Email",
+    "placeholder": "Email Address"
+  },
+  "footer": {
+    "item1": {
+      "resources": "RESOURCES",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "item2": {
+      "followus": "FOLLOW US",
+      "github": "Github",
+      "discord": "Discord"
+    },
+    "item3": {
+      "legal": "LEGAL",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "item4": {
+      "name": "Kamyar Gharibi",
+      "copyright": ". All Rights Reserved.",
+      "year": "2023 ©"
+    }
+  },
+  "search": {
+    "searchitem": {
+      "title": "Find Games",
+      "placeholder": "Game name..."
+    },
+    "filteritem": {
+      "title": "Find Games",
+      "genre": "Genre/Tag:",
+      "sortby": "Sort-by:",
+      "platform": "Platfrom:",
+      "platformFilter1": {
+        "allPlatforms": "All Platforms",
+        "windows": "Windows",
+        "browser": "Browser"
+      },
+      "genreItems": {
+        "allGenre": "All Genres",
+        "anime": "Anime",
+        "shooter": "Shootrer",
+        "fantasy": "Fantasy",
+        "strategy": "Strategy",
+        "racing": "Racing",
+        "moba": "Moba",
+        "mmorpg": "MMORPG",
+        "sci-fi": "Sci-Fi",
+        "social": "Social",
+        "sports": "Sports",
+        "fighting": "Fighting",
+        "cardgames": "Card Games",
+        "battleroyale": "Battle Royale",
+        "zombie": "Zombie"
+      },
+      "sortbyFilter": {
+        "relevance": "Relevance",
+        "popularity": "Popularity",
+        "releaseDate": "Release Date",
+        "alphabetical": "Alphabetical"
+      }
+    }
+  },
+  "globalitem": {
+    "loading": "Loading ...",
+    "addtolibrary": "Add to Library",
+    "platformpc": "platform: PC (Windows)",
+    "platformbrowser": "platform: Web Browser",
+    "darkmode": "Dark Mode",
+    "lightmode": "Light Mode",
+    "farsi": "Persian",
+    "english": "English"
+  },
+  "gameinfo": {
+    "games": "Games",
+    "pcgames": "PC Games",
+    "browsergames": "Browser Games",
+    "cover": {
+      "playnowbtn": "PLAY NOW",
+      "freebtn": "Free"
+    },
+    "about": "About",
+    "AddInfo": {
+      "AdditionalInfo": "Additional Information",
+      "title": "Title",
+      "developer": "Developer",
+      "publisher": "Publisher",
+      "releasedate": "Release Date",
+      "genre": "Genre",
+      "platform": "Platform"
+    },
+    "screenshots": "ScreenShots",
+    "minimumsystem": {
+      "minisys": "Minimum System Requirements",
+      "os": "OS",
+      "processor": "Processor",
+      "memory": "Memory",
+      "graphics": "Graphics",
+      "storage": "Storage",
+      "addnotes": "Additional Notes",
+      "textnote": "Specifications may change during development",
+      "textweb1": "is a browser based game and should run smoothly on practically any PC with a updated web-browser If you have old hardware or software you may still be able to play",
+      "textweb2": "but your game experience may suffer For the best gameplay experience we recommend the latest versions of Firefox Chrome or Edge."
+    }
+  },
+  "forms": {
+    "login": "Login",
+    "contact": "Contact Us",
+    "register": "Don’t have an account?",
+    "enter": "Already have an account?",
+    "welcome": "Welcome",
+    "email": "Email",
+    "signup": "Sign Up",
+    "password": "Password",
+    "fullname": "Full Name",
+    "subject": "Subject",
+    "submit": "SUBMIT",
+    "successfully": "Submitted successfully",
+    "message": "Message....",
+    "passwordError": "Password must be at least 8 characters",
+    "passError": "Your password is not correct!",
+    "passReqError": "Password is a required field.",
+    "emailError": "Email is a required field.",
+    "messageError": "Message is a required field",
+    "messageMaxError": "Message must be at most 500 characters",
+    "messageMinError": "Message must be at least 3 characters",
+    "fullnameError": "Full Name is a required field.",
+    "fullnameMaxError": "Full Name must be at most 30 characters",
+    "fullnameMinError": "Full Name must be at least 3 characters",
+    "subjectError": "Subject is a required field.",
+    "subjectMinError": "Subject must be at least 3 characters",
+    "required": "* Required."
+  },
+  "aboutus": {
+    "hero": {
+      "button": "JOIN US It's free!",
+      "title1": "Your GAME store where",
+      "title2": "EVERYTHING",
+      "title3": "is FREE!",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+    },
+    "aboutservice": {
+      "title": "What is FreeToGame all about?",
+      "description": "We built FreeToGame to create an ecosystem that brings all the best Free-to-Play Games and MMO Games into one place while rewarding gamers with free premium in-game loot, special offers and exclusive perks. Our vision is to create the most exciting and rewarding gaming experience by breaking the inflexible concept of digital storefronts. You get more value... and it's all still completely free."
+    },
+    "aboutItems": {
+      "item1": {
+        "title": "More Rewarding",
+        "description": "Score all premium loot for free, unlock rewards and exclusive perks!"
+      },
+      "item2": {
+        "title": "Easy Discovery",
+        "description": "Discover games easily and get introduced to new ones."
+      },
+      "item3": {
+        "title": "Smart Recommendations",
+        "description": "Get personalized recommendations powered by our own algorithm."
+      },
+      "item4": {
+        "title": "Direct Downloads",
+        "description": "Download your games directly using the power of the cloud."
+      },
+      "item5": {
+        "title": "Collect Games",
+        "description": "Manage your games library and add games you want to play."
+      },
+      "item6": {
+        "title": "Community-Focused",
+        "description": "Voice your opinions, submit reviews, suggest new features and more!"
+      },
+      "item7": {
+        "title": "Enhanced Experience",
+        "description": "Level up your account, unlock Gems daily, earn Ranks and more!"
+      },
+      "item8": {
+        "title": "Advanced security",
+        "description": "We are just getting started! Expect new updates and features."
+      }
+    }
+  }
+}
