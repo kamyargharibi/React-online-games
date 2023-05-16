@@ -74,7 +74,7 @@ const Home = () => {
           </div>
           <div
             data-aos="fade-left"
-            className="mx-auto mt-16 h-80 w-full lg:mt-8"
+            className="mx-auto mt-16 sm:h-80 h-52 w-full lg:mt-8"
           >
             <img
               className="w-full max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
