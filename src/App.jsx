@@ -25,7 +25,7 @@ const App = () => {
   return (
     <>
       <BrowserRouter>
-        <div className="flex min-h-[100vh] w-full flex-col bg-primary-light dark:bg-secondry-dark">
+        <div className="flex min-h-[100vh] w-full flex-col bg-primary-light font-nunito rtl:font-vazir dark:bg-secondry-dark">
           {/* Navbar Component */}
           <Navbar />
           {/* Routes */}

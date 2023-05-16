@@ -29,7 +29,8 @@ export default {
         },
       },
       fontFamily: {
-        body: ["Vazirmatn RD"],
+        vazir: ["Vazirmatn RD"],
+        nunito: ["Nunito", "sans-serif"],
       },
     },
   },
